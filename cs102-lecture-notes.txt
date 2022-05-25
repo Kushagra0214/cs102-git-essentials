@@ -1,0 +1,5 @@
+git clone: used for downloading the latest version of a remote project and copying it to the selected location on the local machine
+git push: push the locally committed changes to the remote branch
+git pull: will fetch all the changes from the remote repository and merge any remote changes in the current local branch
+git add: use to stage changed files
+git init: start a new empty repository or to reinitialize an existing one in the project root
