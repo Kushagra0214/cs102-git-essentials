@@ -3,3 +3,5 @@ git push: push the locally committed changes to the remote branch
 git pull: will fetch all the changes from the remote repository and merge any remote changes in the current local branch
 git add: use to stage changed files
 git init: start a new empty repository or to reinitialize an existing one in the project root
+
+The class was totally about the github in which we discussed "What is GitHub?" an the answer for that is it's a version control github which is used in tracking and providing control over changes made in the source code. We discussed about many commands of github like git push which is used to push the editings to github repository from local machine, git pull to pull the changes of repository to local machines, git add to stage changed files, git commit to commit or update all the changes, git clone to clone a repository from GitHub to local machine, etc. We also learned about markdown language which is used to write readme file and also talked about vs code editor which is a text editor which is used in many places.
